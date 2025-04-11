@@ -7,6 +7,6 @@ Norton Commons has changed a lot over the past ten years. New buildings and hous
 ![Caption of map](ProspectLayout.jpg)  
 _Norton Commons change from 2012-2022_
 
-[Link to high-resolution version](ProspectLayout1.pdf)
+[Link to high-resolution version](ProspectLayout.pdf)
 
 This project was created by Kelsey McKinney in GEO 409. I used DEM phase 1 and 2 layers to show change in Norton Commons. 
